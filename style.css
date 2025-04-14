@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(224, 177, 216);
+}
+header{
+    background-color: rgb(244, 135, 216);
+    text-align: center; 
+    margin: 10px;
+    border-radius: 60%;
+    padding: 20px;
+}
+ h2{
+    background-color: rgb(228, 120, 222);
+    text-align:center;
+    padding: 10px;
+    border-radius: 80%;
+   
+    margin: 20px;
+   
+ }
+ p{
+    background-color: rgb(210, 158, 212);
+ }
+ .imagenst{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+ }
+

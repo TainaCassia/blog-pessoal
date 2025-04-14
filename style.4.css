@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(230, 78, 32);
+}
+header{
+    background-color: rgb(185, 54, 21);
+    text-align: center;
+    padding: 20px;
+    border-radius: 80%;
+    
+}
+p{
+    background-color: rgb(212, 69, 12);
+    text-align:left;
+    width: 600px;
+    height: 430px;
+    padding: 3px 3px 3px 3px;
+    margin: 20px;
+    
+    
+}
+h2{
+    background-color: rgb(179, 127, 65);
+    text-align: center;
+    width:auto;
+    height: 30px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 40%;
+}
+img{
+    float:left;
+    width: 300px;
+    padding-left: 30px;
+    padding: 30px 30px 30px 30px;
+    height: 300px;
+}
+#filme{
+    text-align: center;
+    padding: 20px;
+    font-size:xx-large;
+    font: 400;
+    font-family:fantasy, serif;
+    border-color: rgb(175, 149, 109);
+    background-color:rgb(155, 46, 19) ;
+    margin: 20px;
+}
+#selm{
+    text-align: center;
+    padding-left: 100px;
+    padding: 20px;
+    height: 300px;
+    
+   
+}
+#subu{
+    text-align: center;
+    padding-left: 100px;
+    padding: 20px;
+    height: 300px;
+}
+#button{
+    bottom: 300px;
+    border-bottom: 200px;
+    border-top-style:hidden;
+    text-align: center;
+    border-top-color: rgb(131, 38, 15);
+
+}
+.container{
+    text-align: center;
+    display: block;
+    padding:20px;
+}
